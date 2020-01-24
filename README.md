@@ -6,3 +6,4 @@ The goal of the game is to reach the water side while avoiding getting hit by th
 ## Control
 Use the keyboard arrow keys to control the player movement direction.
 ## Play Game here.
+ https://mmsoni22.github.io/Arcade-Game/
